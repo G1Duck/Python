@@ -9,7 +9,7 @@ D = 28
 T = 36
 
 Total = MH + MC + P + D +T
-print("Total age of house is ", Total, " years old")
+# print("Total age of house is ", Total, " years old")
 
 
 # Poo Calculator
